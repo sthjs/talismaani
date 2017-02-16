@@ -1,0 +1,2 @@
+# talismaani
+Tekstipohjainen seikkailupeli
